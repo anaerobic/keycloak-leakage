@@ -1,0 +1,13 @@
+logs
+target
+export
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+.idea/
+.directory
+*.orig
+/target
